@@ -1,4 +1,4 @@
 # Universite Yonetim Sistemi
 
 
-![image](UniversiteYonetim.png)
+![image](UniversityManagement.png)
