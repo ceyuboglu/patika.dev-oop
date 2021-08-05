@@ -1,4 +1,4 @@
 # Hayvanat Bahcesi Yonetim
 
 
-![image](./HayvanatBahcesiYonetim/HayvanatBahcesiYonetim.png)
+![image](./HayvanatBahcesiYonetim.png)
